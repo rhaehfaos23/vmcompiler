@@ -1,0 +1,5 @@
+test/CommandType.class
+test/App.class
+test/Parser.class
+test/CodeWriter.class
+test/CodeWriter$1.class
